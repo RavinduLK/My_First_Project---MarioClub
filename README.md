@@ -6,4 +6,6 @@ This is a mini website I designed using HTML5 and CSS for learn basic things in 
 
 # Final User Interfaces
 ![finale schematic diagram (2)](https://github.com/seefaBanu/Automated-Coconut-Expert/assets/114132712/3ca570b8-386e-40a6-86f2-75389765807c)
+![finale schematic diagram (2)](https://github.com/seefaBanu/Automated-Coconut-Expert/assets/114132712/3ca570b8-386e-40a6-86f2-75389765807c)
+![finale schematic diagram (2)](https://github.com/seefaBanu/Automated-Coconut-Expert/assets/114132712/3ca570b8-386e-40a6-86f2-75389765807c)
 

@@ -1,4 +1,4 @@
-# CocoExpert-Level1-HardwareProject
+# MarioClub-HTML5 & CSS Practice Project
 CocoExpert is an automated coconut breaking, scraping, and grinding machine with a focus on ensuring safety for housewives and frequent users, thereby eliminating the need for manual intervention
 
 # Machine Animation Video
